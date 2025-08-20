@@ -742,8 +742,10 @@ const data = {
         "extn": "4226"
       }
     ]
-  };
+};
   
+module.exports = data;
+
   // Group the people based on the Role ( You can find in hr array )
   
   /*
